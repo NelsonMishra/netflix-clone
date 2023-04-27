@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Economica:ital@0;1&family=Roboto:ital,wght@0,100;0,400;1,100&display=swap');
+
+
+*{
+    margin: 0%;
+    padding: 0% ;
+    font-family: "Roboto", sans-serif;
+
+    &::-webkit-scrollbar{
+        display: none;
+    }
+    
+}
+
+
+a{ // for all link
+    color: white;
+    text-decoration: none;
+}
+
+.header{
+    height: 75px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    justify-content: space-between;
+
+
+
+    > img { // netflix img
+        height: 115%;
+    }
+
+    >div{
+        
+        width: 100%;
+        margin-left: 3vmax;
+
+        > a{ // for links in header
+            margin: 2vmax;
+            font-size: 0.9rem;
+            // font-weight: 300;
+        }
+    }
+
+    
+
+    >svg{//search icon
+        color: white;
+        font-size: 1.5rem;
+        cursor: pointer;
+        
+        &:hover{
+            color: rgb(120, 116, 116);
+        }
+    }
+
+
+}
+
+
