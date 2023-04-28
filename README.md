@@ -5,6 +5,17 @@
     <br> 
 </p>
 
+
+## Prerequisites
+```
+What things you need to install the software and how to install them.
+```
+### Installing
+
+- [VsCode](https://code.visualstudio.com/) - IDE
+- [ReactJs](https://legacy.reactjs.org/) - React is a JavaScript library for building user interfaces.
+- [NodeJs](https://nodejs.org/en/) - Server Environment
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -77,13 +88,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-### ScreenShot of the Deployment.
+### 📸ScreenShot of the Deployment.
 
 ![image](https://user-images.githubusercontent.com/58170697/235138917-e01ad7f1-9216-4f46-a085-16ec30e6c7bb.png)
 
 ---
 
-### ScreenShot on the web
+### 📸ScreenShot on the web.
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/58170697/235136886-707f89b9-318f-42a3-8807-469c3852e77d.png)
 
@@ -91,7 +102,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![image](https://user-images.githubusercontent.com/58170697/235136401-76927fcb-7dba-4acd-bf0f-7188e3d24359.png)
 
--
+---
 
 ## ✍️ Authors
 - [@NelsonMishra](https://github.com/NelsonMishra)
