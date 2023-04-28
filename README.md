@@ -1,6 +1,11 @@
 # Netfeix-clone using ReactJs
 
-# Getting Started with Create React App
+---
+<p align="center"> A Netflix clone website built using ReactJS would have similar features and functionality as the original Netflix platform. It would allow users to browse and search for their favorite TV shows and movies, and provide personalized recommendations based on their viewing history, Overall, using ReactJS would allow for a smooth and dynamic user experience on the Netflix clone website.
+    <br> 
+</p>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -71,7 +76,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### ScreenShot
+
+### ScreenShot of the Deployment.
+
+![image](https://user-images.githubusercontent.com/58170697/235138917-e01ad7f1-9216-4f46-a085-16ec30e6c7bb.png)
+
+---
+
+### ScreenShot on the web
+
+![Screenshot (45)](https://user-images.githubusercontent.com/58170697/235136886-707f89b9-318f-42a3-8807-469c3852e77d.png)
+
+![Screenshot (46)](https://user-images.githubusercontent.com/58170697/235137004-cf8757e5-cf38-4045-ab2b-8a8dbe5a8793.png)
+
 ![image](https://user-images.githubusercontent.com/58170697/235136401-76927fcb-7dba-4acd-bf0f-7188e3d24359.png)
 
+-
 
+## ✍️ Authors
+- [@NelsonMishra](https://github.com/NelsonMishra)
+
+
+## 🎉 Acknowledgements
+- References : youtube
