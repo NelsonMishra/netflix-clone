@@ -1,3 +1,5 @@
+# Netfeix-clone using ReactJs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### ScreenShot
+![image](https://user-images.githubusercontent.com/58170697/235136401-76927fcb-7dba-4acd-bf0f-7188e3d24359.png)
+
+
