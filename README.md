@@ -1,4 +1,4 @@
-# Netfeix-clone using ReactJs
+# Netflix-clone using ReactJs
 
 ---
 <p align="center"> A Netflix clone website built using ReactJS would have similar features and functionality as the original Netflix platform. It would allow users to browse and search for their favorite TV shows and movies, and provide personalized recommendations based on their viewing history, Overall, using ReactJS would allow for a smooth and dynamic user experience on the Netflix clone website.
